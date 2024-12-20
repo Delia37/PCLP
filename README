@@ -1,0 +1,24 @@
+
+Timp alocat temei:20h
+
+Problema1(4h)
+Pentru cutii.c, am folosit 2 functii: "eliberat", care verifica daca prizonierii castiga jocul, si 
+"cicluri" prin care afisez ciclurile formate cutiile verificate.
+
+Problema 2(8-9h)
+
+Am luat 2 functii, adunare si scadere. Ele efectueaza operatia ceruta, transformand sirul de biti
+in numere "complexe"(despartite fiecare in parte reala si imaginara-te tip int) si inapoi in sir de caractere,
+urmand sa retina rezultatul operatiei intr-un alt sir pe care-l folosesc pentru a efectua mai multe operatii 
+si pe care il afisez.
+
+Problema 3(7-8h)
+
+Folosesc 4 functii, fiecare rezolva una dintre cerinte. Codificarea A presupune transpunerea
+textului primit intr-o matrice, parcursa mai apoi in functie de ordinea alfabetica a primei linii,
+ordine retinuta intr-un vector.
+Decodificarea A se face prin acelasi principiu. 
+Codificarea B propune transformarea textului dat
+in 2 siruri separate, unul pe care-l voi modifica folosind ASCII, celalalt ramanand la fel, urmand 
+ca in final sa le alipesc. Decodificarea B functioneaza pe acelasi principiu, doar ca ne deplasam 
+invers in codul ASCII.
